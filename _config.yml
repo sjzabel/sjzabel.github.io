@@ -1,0 +1,13 @@
+# Site settings
+title: Stephen J. Zabel
+email: sjzabel@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The github.io page for Stephen J. Zabel in Austin, TX
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sjzabel.github.io" # the base hostname & protocol for your site
+twitter_username: sjzabel
+github_username:  sjzabel
+timezone: US/Central
+
+# Build settings
+markdown: kramdown
